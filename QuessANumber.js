@@ -4,4 +4,4 @@ function solve(num){
         console.log(i);
     }
 }
-solve(2)
+solve(1)
